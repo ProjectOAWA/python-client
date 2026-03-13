@@ -1,6 +1,6 @@
 .PHONY: bootstrap test lint type format
 
-VENV?=../.venv
+VENV?=../../.venv
 PY?=python3
 ACTIVATE=$(VENV)/bin/activate
 
