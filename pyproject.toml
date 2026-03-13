@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "oauth-client"
-version = "0.1.1"
+version = "0.1.2"
 description = "OAuth 2.1 third-party client"
 readme = "README.md"
 requires-python = ">=3.10"
